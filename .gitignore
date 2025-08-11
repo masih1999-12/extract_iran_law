@@ -1,1 +1,3 @@
-links.txt
+*.txt
+
+!requirements.txt
